@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.kde.kiriki.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Kiriki</name>
+  <name xml:lang="ca">Kiriki</name>
+  <name xml:lang="ca-valencia">Kiriki</name>
+  <name xml:lang="cs">Kiriki</name>
+  <name xml:lang="da">Kiriki</name>
+  <name xml:lang="de">Kiriki</name>
+  <name xml:lang="el">Kiriki</name>
+  <name xml:lang="en-GB">Kiriki</name>
+  <name xml:lang="es">Kiriki</name>
+  <name xml:lang="et">Kiriki</name>
+  <name xml:lang="fi">Kiriki</name>
+  <name xml:lang="fr">Kiriki</name>
+  <name xml:lang="gl">Kiriki</name>
+  <name xml:lang="id">Kiriki</name>
+  <name xml:lang="it">Kiriki</name>
+  <name xml:lang="ko">Kiriki</name>
+  <name xml:lang="nl">Kiriki</name>
+  <name xml:lang="nn">Kiriki</name>
+  <name xml:lang="pl">Kiriki</name>
+  <name xml:lang="pt">Kiriki</name>
+  <name xml:lang="pt-BR">Kiriki</name>
+  <name xml:lang="ru">Kiriki</name>
+  <name xml:lang="sk">Kiriki</name>
+  <name xml:lang="sl">Kiriki</name>
+  <name xml:lang="sr">Кирики</name>
+  <name xml:lang="sr-Latn">Kiriki</name>
+  <name xml:lang="sr-ijekavian">Кирики</name>
+  <name xml:lang="sr-ijekavianlatin">Kiriki</name>
+  <name xml:lang="sv">Kiriki</name>
+  <name xml:lang="tr">Kiriki</name>
+  <name xml:lang="uk">Kiriki</name>
+  <name xml:lang="x-test">xxKirikixx</name>
+  <name xml:lang="zh-CN">Kiriki</name>
+  <name xml:lang="zh-TW">Kiriki</name>
+  <summary>Yahtzee-like Dice Game</summary>
+  <summary xml:lang="ca">Joc de daus com el Yahtzee</summary>
+  <summary xml:lang="ca-valencia">Joc de daus com el Yahtzee</summary>
+  <summary xml:lang="cs">Hra s kostkami podobná Yahtzee</summary>
+  <summary xml:lang="da">Yatzy-lignende terningespil</summary>
+  <summary xml:lang="de">„Kniffel“-Würfelspiel</summary>
+  <summary xml:lang="el">Παιχνίδι με ζάρια όπως το Yahtzee</summary>
+  <summary xml:lang="en-GB">Yahtzee-like Dice Game</summary>
+  <summary xml:lang="es">Juego de dados similar al Yahtzee</summary>
+  <summary xml:lang="et">Yahtzee moodi täringumäng</summary>
+  <summary xml:lang="fi">Yatzy-mainen noppapeli</summary>
+  <summary xml:lang="fr">Jeu de dés dans le style du Yam's</summary>
+  <summary xml:lang="gl">Xogo de dados ao estilo do «Yahtzee»</summary>
+  <summary xml:lang="id">Permainan Dadu Seperti Yahtzee</summary>
+  <summary xml:lang="it">Gioco di dadi in stile Yahtzee</summary>
+  <summary xml:lang="ko">야찌형 주사위 게임</summary>
+  <summary xml:lang="nl">Yahtzee-achtig dobbelsteenspel</summary>
+  <summary xml:lang="nn">Yatzy-liknande terningspel</summary>
+  <summary xml:lang="pl">Gra kostką typu Yahtzee</summary>
+  <summary xml:lang="pt">Jogo de Dados à Yahtzee</summary>
+  <summary xml:lang="pt-BR">Jogo de dados parecido com Yahtzee ou Yam</summary>
+  <summary xml:lang="ru">Игра «Покер на костях»</summary>
+  <summary xml:lang="sk">Hra s kockami podobná Yahtzee</summary>
+  <summary xml:lang="sl">Igra s kockami, podobna Jamb-u (Yahtzee)</summary>
+  <summary xml:lang="sr">Јамболика игра са коцкицама</summary>
+  <summary xml:lang="sr-Latn">Jambolika igra sa kockicama</summary>
+  <summary xml:lang="sr-ijekavian">Јамболика игра са коцкицама</summary>
+  <summary xml:lang="sr-ijekavianlatin">Jambolika igra sa kockicama</summary>
+  <summary xml:lang="sv">Yatzy-liknande tärningsspel</summary>
+  <summary xml:lang="tr">Yahtzee benzeri Zar Oyunu</summary>
+  <summary xml:lang="uk">Гра схожа на покер з кістками</summary>
+  <summary xml:lang="x-test">xxYahtzee-like Dice Gamexx</summary>
+  <summary xml:lang="zh-CN">类似 Yahtzee 的骰子游戏</summary>
+  <summary xml:lang="zh-TW">類似 Yahtzee 的骰子遊戲</summary>
+  <description>
+    <p>
+      Kiriki is an addictive and fun dice game, designed to be played by as many as six players.
+      Participants have to collect points by rolling five dice for up to three times per single turn.
+    </p>
+    <p xml:lang="ca">El Kiriki és un joc de daus addictiu i divertit, dissenyat per a jugar-se amb fins a sis jugadors. Els participants han de recollir punts tirant cinc daus fins a tres vegades per cada torn.</p>
+    <p xml:lang="ca-valencia">El Kiriki és un joc de daus addictiu i divertit, dissenyat per a jugar-se amb fins a sis jugadors. Els participants han de recollir punts tirant cinc daus fins a tres vegades per cada torn.</p>
+    <p xml:lang="da">Kiriki er et afhængighedsskabende og sjovt terningespil designet til at kunne spilles af op til seks spillere. Deltagerne samler point ved at slå med fem terninger op til tre gang pr. tur.</p>
+    <p xml:lang="de">Kiriki ist ein Würfelspiel, das mit bis zu sechs Spielern gespielt werden kann. Die Spieler sammeln Punkte, indem Sie die fünf Würfel in einem Zug bis zu drei Mal würfeln.</p>
+    <p xml:lang="el">Το Kiriki είναι ένα εθιστικό και ευχάριστο παιχνίδι με ζάρια, σχεδιασμένο να παίζεται μέχρι και με έξι παίκτες. Οι συμμετέχοντες συλλέγουν πόντους ρίχνοντας πέντε ζάρια μέχρι και τρεις φορές κάθε φορά.</p>
+    <p xml:lang="en-GB">Kiriki is an addictive and fun dice game, designed to be played by as many as six players. Participants have to collect points by rolling five dice for up to three times per single turn.</p>
+    <p xml:lang="es">Kiriki es un juego de dados divertido y adictivo, en el que pueden participar hasta seis jugadores. Los participantes deben reunir puntos tirando cinco dados hasta tres veces en cada turno.</p>
+    <p xml:lang="et">Kiriki on köitev ja lõbus täringumäng, mida võib mängida kuni kuus mängijat. Mängijad peavad koguma punkte, veeretades viit täringut ühes voorus kuni kolm korda.</p>
+    <p xml:lang="fi">Kiriki on hauska ja koukuttava noppapeli, joka on suunniteltu jopa kuudelle pelaajalle. Pelaajat keräävät pisteitä heittämällä viittä noppaa enintään kolmesti kullakin vuorolla.</p>
+    <p xml:lang="fr">Kiriki est un jeu de dés amusant et addictif conçu pour réunir jusqu'à six joueurs. Les participants doivent collecter des points en lançant cinq dés jusqu'à trois fois par tour.</p>
+    <p xml:lang="gl">Kiriki é un xogo de dados adictivo e divertido, deseñado para ata 6 xogadores. Os xogadores teñen que reunir puntos tirando 5 dados ata 3 veces por quenda.</p>
+    <p xml:lang="id">Kiriki adalah permainan dadu yang adiktif dan menyenangkan, dirancang untuk dimainkan oleh sebanyak enam pemain. Peserta harus mengumpulkan poin dengan menggelundungkan lima dadu hingga tiga kali tiap giliran.</p>
+    <p xml:lang="it">Kiriki è un gioco di dadi divertente e coinvolgente, studiato per essere giocato fino a un massimo di sei giocatori. I partecipanti devono accumulare punti lanciando cinque dadi fino a tre volte per singolo turno.</p>
+    <p xml:lang="ko">Kiriki는 최대 6명이 플레이할 수 있는 재미있는 주사위 게임입니다. 참가자는 주사위 다섯 개를 턴당 최대 세 번까지 던져서 점수를 얻어야 합니다.</p>
+    <p xml:lang="nl">Kiriki is een verslavend en plezierig spel met dobbelstenen, ontworpen om gespeeld te worden door zoveel als zes spelers. Deelnemers moeten punten verzamelen door vijf dobbelstenen tot drie keer per enkele beurt te gooien.</p>
+    <p xml:lang="nn">Kiriki er eit vanedannande og morosamt terningspel, som kan spelast av opptil seks spelarar. Deltakarane får poeng ved å trilla fem terningar opptil tre gongar per omgang.</p>
+    <p xml:lang="pl">Kirki jest uzależniającą i ciekawą grą kostką, stworzoną do gry nawet w sześć osób. Gracze zbierają punkty rzucając pięcioma kostkami do trzech razy na turę. </p>
+    <p xml:lang="pt">O Kiriki é um jogo de dados divertido e viciante, desenhado para ser jogado com até seis pessoas. Os participantes têm de recolher pontos, lançando cinco dados, até três vezes por cada lançamento individual.</p>
+    <p xml:lang="pt-BR">Kiriki é um jogo de dados viciante e divertido, projetado para ser jogado por até seis pessoas. Os participantes devem coletar pontos, lançando cinco dados por até três vezes em cada jogada.</p>
+    <p xml:lang="ru">Kiriki — азартная игра в кости, в которую могут играть до шести человек. Игроки набирают очки, бросая пять костей до трёх раз за ход.</p>
+    <p xml:lang="sk">Kiriki je návyková a zábavná kocková hra určená pre maximálne 6 hráčov. Hráči musia zbierať body hádzaním piatich kociek maximálne 3x za jeden ťah.</p>
+    <p xml:lang="sl">Kiriki je zasvojljiva in zabavna igra s kockami, ki je bila zasnovana za do šest igralcev. Udeleženci morajo zbirati točke z metanjem petih kock, do trikrat na potezo.</p>
+    <p xml:lang="sr">Кирики је заразна и забавна игра са коцкицама, дизајнирана за играње до у шест играча. Учесници скупљају поене бацањем пет коцкица до три пута у једном потезу.</p>
+    <p xml:lang="sr-Latn">Kiriki je zarazna i zabavna igra sa kockicama, dizajnirana za igranje do u šest igrača. Učesnici skupljaju poene bacanjem pet kockica do tri puta u jednom potezu.</p>
+    <p xml:lang="sr-ijekavian">Кирики је заразна и забавна игра са коцкицама, дизајнирана за играње до у шест играча. Учесници скупљају поене бацањем пет коцкица до три пута у једном потезу.</p>
+    <p xml:lang="sr-ijekavianlatin">Kiriki je zarazna i zabavna igra sa kockicama, dizajnirana za igranje do u šest igrača. Učesnici skupljaju poene bacanjem pet kockica do tri puta u jednom potezu.</p>
+    <p xml:lang="sv">Kiriki är ett beroendeframkallande och roligt tärningsspel, konstruerat för att spelas av så många som sex spelare. Deltagarna ska samla poäng genom att slå med fem tärningar upp till tre gånger varje omgång.</p>
+    <p xml:lang="tr">Kiriki, altı oyuncu kadar oynamak için tasarlanmış, bağımlılık yaratan eğlenceli bir zar oyunudur. Katılımcılar, her turda üç kez beş tane zar atarak puan toplamaya çalışırlar.</p>
+    <p xml:lang="uk">Kiriki — захоплива гра у кістки. Її створено для гри, у якій братимуть участь не більше шести гравців. Учасники гри збирають очки, виконуючи до трьох кидків п’яти кісток кожного ходу.</p>
+    <p xml:lang="x-test">xxKiriki is an addictive and fun dice game, designed to be played by as many as six players. Participants have to collect points by rolling five dice for up to three times per single turn.xx</p>
+    <p xml:lang="zh-CN">Kiriki 是一个吸引人的有趣的骰子游戏，设计最多六人游玩。参与者通过每轮最多重投三次骰子来收集点数。</p>
+    <p xml:lang="zh-TW">Kiriki 是個有趣的骰子遊戲，最多可以六個人玩。玩的人一輪擲五顆骰子，最多三次，並計算總點數。</p>
+  </description>
+  <url type="homepage">https://kde.org/applications/games/org.kde.kiriki</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kiriki</url>
+  <url type="help">https://docs.kde.org/?application=kiriki</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kiriki&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://kde.org/images/screenshots/kiriki.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kiriki</binary>
+  </provides>
+  <releases>
+    <release version="21.08.0" date="2021-08-12"/>
+    <release version="21.04.3" date="2021-07-08"/>
+    <release version="21.04.2" date="2021-06-10"/>
+    <release version="21.04.1" date="2021-05-13"/>
+  </releases>
+</component>
